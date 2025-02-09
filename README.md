@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This site showcases my work, skills, and projects. It's a fully responsive and modern design, built with the latest web technologies.
 
-![Portfolio Screenshot](./assets/images/apoo.jpeg)
+![Portfolio Screenshot](awesome-portfolio-websites-master/assets/images/apoo.jpeg)
 
 ## Table of Contents
 
@@ -32,10 +32,3 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/your-username/portfolio-website.git
-
-2. Navigate into the project directory:
-
-cd portfolio-website
-3. Open index.html in your browser to view the portfolio.
-
-
